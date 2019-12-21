@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Newsy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Newsy</string>
+    <string name="nav_header_subtitle">The newest newsies</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Instellingen</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Zoeken</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_preferences">Voorkeuren</string>
+    <string name="menu_favorites">Favoriete artikels</string>
+    <string name="menu_send">Verzenden</string>
+
+    <string-array name="topics">
+        <item><i>Kies</i></item>
+        <item>Wereld</item>
+        <item>Natie</item>
+        <item>Zakelijk</item>
+        <item>Technologie</item>
+        <item>Entertainment</item>
+        <item>Sporten</item>
+        <item>Wetenschap</item>
+        <item>Gezondheid</item>
+    </string-array>
+
+    <string name="title_activity_start">Newsy</string>
+    <string name="keyword">Zoeken op trefwoord</string>
+    <string name="search">Zoeken</string>
+    <string name="help_home_title">Start</string>
+    <string name="help_home_1">Op de homepagina wordt er bij het opstarten van de app 10 top nieuwtjes getoond. Welke top nieuwtjes er getoond worden is afhankelijk van de instellingen, meer hierover in het instellingen gedeelte.</string>
+    <string name="help_home_2">Bij elk nieuwtje zie je de titel van het artikel, de naam van de bron en de datum met tijdstip wanneer het artikel geplaatst is. Aan elk nieuwtje zijn enkele acties verbonden. Zo is het mogelijk om de website te openen van de bron door op zijn naam te drukken. Door op de wereldbol te drukken wordt je genavigeerd naar de pagina waar het artikel te lezen is. Door te drukken op het hartje slaag je het artikel op bij je favorieten zodat je dit nooit meer kwijt speelt. Door op het deel icoon te drukken (3 verbonden bolletjes) is het mogelijk om je artikel te delen via een gewenst medium zoals facebook of whatsapp.</string>
+    <string name="help_search_title">Zoeken</string>
+    <string name="help_search">Op de zoekpagina kan de gebruikers nieuwsberichten gaan zoeken. Dit kan met een trefwoord of zoeken op categorie. Deze categorieën zijn: wereld, natie, zakelijk, technologieën, entertainment, sporten, wetenschap en gezondheid.</string>
+    <string name="help_favorites_title">Favoriete artikels</string>
+    <string name="help_favorites">Op de favorieten pagina kan de user al zijn opgeslagen artikels bekijken die men heeft aangeduid bij de top nieuwtjes of op de gefilterde pagina. De artikels zien er helemaal hetzelfde uit, alsook dezelfde functionaliteit, behalve dat de knop om ze op te slaan bij favorieten vervangen is door een verwijder-knop om deze uit de favorieten lijst te halen.</string>
+    <string name="help_settings_title">Instellingen</string>
+    <string name="help_settings">De instellingspagina is toegankelijk via de 3 bolletjes rechts boven op de toolbar. Op de instellingspagina kan de taal en landkeuze worden ingesteld. Er is keuze uit België-Nederlands, België-Frans, Nederland-Nederlands, Frankrijk-Frans, Duitsland-Duits, Verenigd Koninkrijk-Engels en Verenigde Staten van Amerika-Engels.</string>
+    <string name="help_authors_title">Auteurs</string>
+    <string name="help_authors">Dit zijn de auteurs van Newsy:</string>
+
+    <string name="preference_be_country">België</string>
+    <string name="preference_nl_country">Nederland</string>
+    <string name="preference_nl_language">Nederlands</string>
+    <string name="preference_fr_country">Frankrijk</string>
+    <string name="preference_fr_language">Frans</string>
+    <string name="preference_de_country">Duitsland</string>
+    <string name="preference_de_language">Duits</string>
+    <string name="preference_uk_country">Verenigd Koninkrijk</string>
+    <string name="preference_en_language">Engels</string>
+    <string name="preference_us_country">Verenigde Staten van Amerika</string>
+
+    <string name="share">Lees hier het artikel: </string>
+    <string name="saved">Opgeslagen!</string>
+    <string name="wasSaved">Was alreeds opgeslagen!</string>
+    <string name="topic">Zoeken op categorie</string>
+
+
+    <string name="emmy_bruynseels">Emmy Bruynseels</string>
+    <string name="jelle_ceulemans">Jelle Ceulemans</string>
+
+    <string name="toolbar_home">Start</string>
+    <string name="toolbar_search">Zoeken</string>
+    <string name="toolbar_favorites">Favorieten</string>
+    <string name="toolbar_help">Help</string>
+    <string name="toolbar_settings">Instellingen</string>
+    <string name="toolbar_browser">Browser</string>
+    <string name="toolbar_filtered">Gefilterde nieuwtjes</string>
+
+    <string name="toast_empty">Vul het tekst veld in!</string>
+    <string name="toast_failed_fetching">Ophalen van de artikels is niet gelukt</string>
+    <string name="toast_internet">Geen internet connectie!</string>
+
+</resources>

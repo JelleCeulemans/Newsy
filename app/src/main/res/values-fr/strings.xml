@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Newsy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Newsy</string>
+    <string name="nav_header_subtitle">The newest newsies</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Chercher</string>
+    <string name="menu_preferences">Préférences</string>
+    <string name="menu_favorites">Favoris</string>
+    <string name="menu_send">Envoyer</string>
+    <string name="keyword">recherche par mot-clé</string>
+    <string name="search">Chercher</string>
+
+    <string-array name="topics">
+        <item><i>Choisir</i></item>
+        <item>Monde</item>
+        <item>Nation</item>
+        <item>Entreprise</item>
+        <item>La technologie</item>
+        <item>Divertissement</item>
+        <item>Des sports</item>
+        <item>Science</item>
+        <item>Santé</item>
+    </string-array>
+    <string name="title_activity_start">Newsy</string>
+
+    <string name="menu_help">Aide</string>
+    <string name="help_home_title">Page d\'accueil</string>
+    <string name="help_home_1">Sur la page d\'accueil vous voyez le top 10 nouvelles affichées. Quelles nouvelles sont affichées, dépendent des paramètres, plus à ce sujet dans la zone des paramètres.</string>
+    <string name="help_home_2">A toutes les nouvelles, vous voyez le titre de l\'article, le nom de la source et la date moment où l\'article apparaît. Un certain nombre d\'actions associées à chaque morceau de nouvelles. Il est possible d\'accéder au site source en appuyant sur son nom. En appuyant sur le globe vous accédez à la page où l\'article est lu. En appuyant sur le cœur dans votre article, l\'article est enregistré dans vos favoris. En appuyant sur l\'icône de partager, il est possible de partager un article par l\'intermédiaire d\'un support souhaité, tel que facebook ou WhatsApp.</string>
+    <string name="help_search_title">Chercher</string>
+    <string name="help_search">Sur la page de recherche, l\'utilisateur peut rechercher des nouvelles. Cela peut être une recherche par mot clé ou par catégorie. Ces catégories sont les suivantes: monde, nation, une entreprise, la technologie, le divertissement, les sports, la science et la santé.</string>
+    <string name="help_favorites_title">Favoris</string>
+    <string name="help_favorites">Sur la page de favoris, l\'utilisateur peut afficher tous les articles sauvegardés qu\'ils ont indiqué sur la page de nouvelles filtrée ou page d\'accueil. Les articles semblent tout à fait les mêmes, et les mêmes fonctionnalités, à l\'exception que le bouton qu\'ils épargnent aux favoris est remplacé par un bouton supprimer, pour le supprimer de la liste des favoris.</string>
+    <string name="help_settings_title">Paramètres</string>
+    <string name="help_settings">La page de réglage est accessible par les trois balles à droite au-dessus de la barre d\'outils. Sur la page des paramètres que vous pouvez définir la langue et de la sélection pays. Choisissez parmi: Belgique-néerlandais, Belgique-français, Pays-Bas-néerlandais, France-français, Allemagne-allemand, Royaume-Uni-anglais, Etats-unis d\'amérique-anglais</string>
+    <string name="help_authors_title">Auteurs</string>
+    <string name="help_authors">Ce sont les auteurs de Newsy:</string>
+
+    <string name="preference_be_country">Belgique</string>
+    <string name="preference_nl_country">Pays-Bas</string>
+    <string name="preference_nl_language">néerlandais</string>
+    <string name="preference_fr_country">France</string>
+    <string name="preference_fr_language">français</string>
+    <string name="preference_de_country">Allemagne</string>
+    <string name="preference_de_language">allemand</string>
+    <string name="preference_uk_country">Royaume-Uni</string>
+    <string name="preference_en_language">anglais</string>
+    <string name="preference_us_country">états-unis d\'amérique</string>
+
+    <string name="share">Lire l\'article: </string>
+    <string name="saved">enregistré</string>
+    <string name="wasSaved">déjà enregistré!</string>
+    <string name="topic">recherche sur le sujet</string>
+
+    <string name="emmy_bruynseels">Emmy Bruynseels</string>
+    <string name="jelle_ceulemans">Jelle Ceulemans</string>
+
+    <string name="toolbar_home">Home</string>
+    <string name="toolbar_search">Chercher</string>
+    <string name="toolbar_favorites">Favoris</string>
+    <string name="toolbar_help">Aide</string>
+    <string name="toolbar_settings">Préférences</string>
+    <string name="toolbar_browser">Navigateur</string>
+    <string name="toolbar_filtered">Nouvelles filtrée</string>
+
+    <string name="toast_empty">"Fill in the text field!"</string>
+    <string name="toast_failed_fetching">Ophalen van de artikels is niet gelukt</string>
+    <string name="toast_internet">Geen internet connectie!</string>
+</resources>

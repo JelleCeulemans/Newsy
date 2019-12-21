@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:justificationMode="inter_word"
+        android:layout_margin="15dp"
+        android:textSize="15dp"
+        android:gravity="center"
+        android:text="@string/help_authors"/>
+
+    <Button
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:textColor="@color/colorPrimary"
+        android:tag="http://emmybruynseels.be/"
+        android:text="@string/emmy_bruynseels"
+        android:onClick="goToPage"/>
+
+    <Button
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:textColor="@color/colorPrimary"
+        android:tag="https://jelleceulemans.be/"
+        android:text="@string/jelle_ceulemans"
+        android:onClick="goToPage"/>
+
+</LinearLayout>

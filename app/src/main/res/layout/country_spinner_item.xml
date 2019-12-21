@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageViewFlag"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/flag_belgium"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/textviewCountry"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:text="Belgium"
+        android:layout_toRightOf="@+id/imageViewFlag"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:textSize="18dp"
+
+        android:layout_marginTop="8dp"/>
+
+    <TextView
+        android:id="@+id/textviewLanguage"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/imageViewFlag"
+        android:gravity="center"
+        android:textStyle="italic"
+        android:text="Dutch"
+        android:textSize="13dp"
+        android:layout_marginTop="30dp"/>
+</RelativeLayout>

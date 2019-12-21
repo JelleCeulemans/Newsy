@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name" translatable="false">Newsy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Newsy</string>
+    <string name="nav_header_subtitle">The newest newsies</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_preferences">Preferences</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="menu_send">Send</string>
+    <string name="keyword">Search on keyword</string>
+    <string name="search">Search</string>
+
+    <string-array name="topics">
+        <item><i>Choose</i></item>
+        <item>World</item>
+        <item>Nation</item>
+        <item>Business</item>
+        <item>Technology</item>
+        <item>Entertainment</item>
+        <item>Sports</item>
+        <item>Science</item>
+        <item>Health</item>
+    </string-array>
+    <string name="title_activity_start">Newsy</string>
+
+    <string name="help_home_title">Home</string>
+    <string name="help_home_1">On the homepage you will see 10 top articles when the application boots. Which news this will be, depends on how your preferences are set. More info about this in the preferences part.</string>
+    <string name="help_home_2">Each article will show the title, the name of the source and the date and time when the article was posted. Each artcle has some actions connected to it. It\'s possible to go to the website of the source by clicking on its name. By clicking on the globe icon you\'ll be navigated to the online page to read the article. By clicking the heart, the app saves this article. The share icon makes it possible to share this article by Facebook, Whatsapp, ... .</string>    <string name="help_search_title">Search</string>
+    <string name="help_search">On the search page, the user can look for articles by entering a keyword or selecting a category. The categories are the following: World, Nation, Business, Technology, Entertainment, Sports, Science, Health.</string>
+    <string name="help_favorites_title">Favorites</string>
+    <string name="help_favorites">On the favorites page, the user can see all the saved articles, which are saved on the homepage or the search page. The articles look the same, also have the same functionality (as homepage). There is one difference and that\'s the save icon which is begin replaced by a delete icon, to delete this article from the favorites.</string>
+    <string name="help_settings_title">Settings</string>
+    <string name="help_settings">The settingspage is accessible by the icon in the top-right corner of the toolbar. On this page you can set your language and country. There is a choice between: Belgium-Dutch, Belgium-French, The Netherlands-dutch, France-French, Germany-German, UK-English, US-English.</string>
+    <string name="help_authors_title">Authors</string>
+    <string name="help_authors">These are the authors of Newsy:</string>
+
+    <string name="preference_be_country">Belgium</string>
+    <string name="preference_nl_country">The Netherlands</string>
+    <string name="preference_nl_language">Dutch</string>
+    <string name="preference_fr_country">France</string>
+    <string name="preference_fr_language">French</string>
+    <string name="preference_de_country">Germany</string>
+    <string name="preference_de_language">German</string>
+    <string name="preference_uk_country">United Kingdom</string>
+    <string name="preference_en_language">English</string>
+    <string name="preference_us_country">United States of America</string>
+
+    <string name="share">Read the article: </string>
+    <string name="saved">Saved</string>
+    <string name="wasSaved">Was already saved!</string>
+    <string name="topic">Search on topic</string>
+    <string name="emmy_bruynseels">Emmy Bruynseels</string>
+    <string name="jelle_ceulemans">Jelle Ceulemans</string>
+
+    <string name="toolbar_home">Home</string>
+    <string name="toolbar_search">Search</string>
+    <string name="toolbar_favorites">Favorites</string>
+    <string name="toolbar_help">Help</string>
+    <string name="toolbar_settings">Settings</string>
+    <string name="toolbar_browser">Browser</string>
+    <string name="toolbar_filtered">Filtered news</string>
+
+    <string name="toast_empty">"Fill in the text field!"</string>
+    <string name="toast_failed_fetching">Fetching articles failed</string>
+    <string name="toast_internet">No internet connection</string>
+
+</resources>
